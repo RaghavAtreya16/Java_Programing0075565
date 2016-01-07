@@ -38,4 +38,7 @@ overcum these problem we have use collection
 
 
 Group Of indiviual Objects is Collection (Defined Class  and Interface) combination of both call is called collection Framework
+similar to container.STL in C++
+Collection and Collection Framwork are same in java.
+
 

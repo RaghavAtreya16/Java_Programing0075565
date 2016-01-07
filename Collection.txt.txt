@@ -1,0 +1,4 @@
+Array List 
+Why We are using ?
+to reference many object (varible) wer need to declare many varible Handling task is going to be very handy.By Use of ArrayList we can 
+reference many object by a single variable.

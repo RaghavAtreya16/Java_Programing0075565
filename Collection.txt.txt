@@ -37,4 +37,5 @@ overcum these problem we have use collection
 3. Based on standard Data structure ()
 
 
+Group Of indiviual Objects is Collection (Defined Class  and Interface) combination of both call is called collection Framework
 

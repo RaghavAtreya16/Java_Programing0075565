@@ -24,3 +24,9 @@ readymat function is not for array.
 
 
 overcum these problem we have use collection
+1. Growable in Nature
+2. can hold  homogenous + heterogouns 
+3. Based on standard Data structure ()
+
+
+

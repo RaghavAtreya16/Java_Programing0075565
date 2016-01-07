@@ -1,6 +1,10 @@
 Array List 
 
-----------------------------------------Best to go with Array----------------------------( resizeable we have to pay some cost)------the best example of this is the when ArrayList is Become small then the bigger ArrayList is created and all element is coppied there---this all proccess is internally-- and old array will be deallocath garbage collection------- Preformance is decresea--
+----------------------------------------Best to go with Array----------------------------( resizeable we have to pay some cost)
+------the best example of this is the when ArrayList is Become small then the bigger ArrayList is created and all element is coppied 
+there---this all proccess is internally-- and old array will be deallocath garbage collection------- Preformance is decresea in 
+Collection--
+
 Why We are using ?
 to reference many object (varible) wer need to declare many varible Handling task is going to be very handy.By Use of ArrayList we can 
 reference many object by a single variable.
@@ -23,6 +27,8 @@ underline data structure.
 readymat function is not for array.
 \\  contains function in Collection
 
+Collection can not hold primitive data type but support the object type
+Array supprot both
 
 
 overcum these problem we have use collection

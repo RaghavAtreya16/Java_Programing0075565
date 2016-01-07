@@ -4,4 +4,23 @@ to reference many object (varible) wer need to declare many varible Handling tas
 reference many object by a single variable.
 
 Limitation of Array
+Fixed in Size
 1.Sized in Size (Not dynamic) Not resize we cannot create new element of array at run time.there may be a case of memory loss.
+----2---
+Homogenous data element can be represent by array.
+
+i want to store any type of array 
+but this works always Object class is super class.
+Object A[10];
+A[0] = new Student();
+A[1] = new Boy();
+etc.
+
+--3---
+underline data structure.
+readymat function is not for array.
+\\  contains function in Collection
+
+
+
+overcum these problem we have use collection
